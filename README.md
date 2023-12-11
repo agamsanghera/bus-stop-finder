@@ -16,7 +16,7 @@ The bus stop app is a simple app that allows you to find the nearest bus stop to
 * Built for iOS, iPadOS and macOS
 * Written in SwiftUI
 * Dark mode support
-* Localized in Japanese, Hindi and Indonesian
+* Support for English, Japanese, Hindi and Indonesian
 * iOS 14.0+
 * License: [GPLv3](https://github.com/agamsanghera/bus-stop-finder?tab=GPL-3.0-1-ov-file)
 
